@@ -1,6 +1,6 @@
 ## Important
-Several other files not written by me are needed to compile this program.
-Will push them as soon as I've verified that it's okay do push them.
+Several files not written by me are needed to compile this program.
+I will push them as soon as I've verified that it's okay to push them.
 
 
 ## Compilation using gcc:
