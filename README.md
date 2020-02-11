@@ -1,7 +1,5 @@
 ## Important
-Several files not written by me are needed to compile this program.
-I will push them as soon as I've verified that it's okay to push them.
-
+Several files files containing basic datatypes that were provided by the course this projects was made for are not included as I do not own the right to pubish them. This datatypes would need to be implemented again to make this runnable.
 
 ## Compilation using gcc:
 gcc -o huffman std=c99 -Wall main.c huffman.c dlist.c list_2cell.c table.c prioqueue.c bitset.c -lm
